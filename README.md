@@ -23,10 +23,8 @@ Overengineering isn’t a mistake — it’s a strategy.
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=vextmdev&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=vextmdev&theme=react&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vextmdev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
